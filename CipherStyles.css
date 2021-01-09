@@ -1,0 +1,99 @@
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -14em;
+  margin-left: -5em;
+}
+
+h1 {
+    color:#8400fd;
+    
+    
+        
+    
+        
+        
+}
+
+head {
+    
+    
+        
+}
+
+
+
+#start-b {
+    margin-left: -18em;
+    margin-top: 19em;
+    height: 50px;
+    width: 270px;
+}
+
+#end_b {
+    margin-left: 2.4em;
+    margin-top: 19em;
+    height: 50px;
+    width: 270px;
+}
+
+#key-phrase {
+    
+    margin-left: -18em;
+    margin-top: -20em;
+    height: 30px;
+    width: 535px;
+}
+
+.text-box {
+    
+}
+
+textarea {
+    width: 500px;
+    height: 200px;
+    padding: 12px 20px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+   
+
+}
+
+#text-input {
+    margin-top: -13em;
+    margin-left: -15em;
+}
+
+#out {
+    background-color: aqua;
+    height: 150px;
+    width: 500px;
+    margin-left: 16em;
+    margin-top: 5em;
+}
+
+#top {
+    margin-top: -13em;
+}
+
+#copybtn {
+    height: 50px;
+    width: 543px;
+    margin-left: -18em;
+    margin-top: 23.2em
+}
+
+form {
+    
+}
+
+#form-comps {
+    
+}
+
+#buttons {
+    
+}
